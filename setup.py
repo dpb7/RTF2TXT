@@ -3,7 +3,7 @@ import py2exe
 
 #setup(console=['Rtf2Txt.py'])
 options = {'py2exe': {
-    'includes': ['Rtf2Html.py','RtfParser.py']}}
+    'includes': ['RtfParser.py']}}
 
 setup(
     windows = [
