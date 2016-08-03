@@ -8,4 +8,4 @@ Name: Rtf2Txt
 - Original Author-email: loic@fejoz.net
 - Link to Loic's original code: https://sourceforge.net/projects/pyrtflib/?source=typ_redirect
 
-- Platform: Python 2.7
+- Platform: Python 2.7 (uncomment code to run in Python 3.5)
